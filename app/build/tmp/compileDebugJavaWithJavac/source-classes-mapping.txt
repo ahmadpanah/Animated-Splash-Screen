@@ -1,0 +1,6 @@
+ir/shariaty/animationforsplashscreen/BuildConfig.java
+ ir.shariaty.animationforsplashscreen.BuildConfig
+ir/shariaty/animationforsplashscreen/MainActivity.java
+ ir.shariaty.animationforsplashscreen.MainActivity
+ir/shariaty/animationforsplashscreen/IntroActivity.java
+ ir.shariaty.animationforsplashscreen.IntroActivity
